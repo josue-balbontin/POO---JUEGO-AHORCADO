@@ -7,6 +7,7 @@ Tener una base de palabras, evitar palabras cortas/simples,
 3. Los intentos para adivinar la palabra es parametrizable, puede elegir una lógica de su preferencia para terminar el juego
 4. El jugador gana si adivinó la palabra sin terminar los intentos
 5. El jugador pierde si termina los intentos antes de adivinar la palabra (queda ahorcado)
+
 Para el desarrollo de la aplicación considerar:
 
 1. Es una aplicación en consola C#
