@@ -12,3 +12,4 @@ D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\ahorcados\ahorcados\obj\De
 D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\ahorcados\ahorcados\obj\Debug\net8.0\ahorcados.pdb
 D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\ahorcados\ahorcados\obj\Debug\net8.0\ahorcados.genruntimeconfig.cache
 D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\ahorcados\ahorcados\obj\Debug\net8.0\ref\ahorcados.dll
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\ahorcados\ahorcados\obj\Debug\net8.0\ahorcados.sourcelink.json

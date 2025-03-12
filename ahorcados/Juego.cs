@@ -13,9 +13,9 @@ namespace ahorcados
     {
        private  Ahorcado juego ;
 
-        public void empezar(int intentos=0)
+        public void empezar()
         {
-            juego = new Ahorcado(intentos);
+            juego = new Ahorcado(obtenereentrada());
             Console.WriteLine("BIENVENIDO AL JUEGO AHORCADOS");
             while (juego.obtenerintentos() > 0 && juego.Ganar()==false)
             {
@@ -58,7 +58,19 @@ namespace ahorcados
 
         }
 
-
+        private int obtenereentrada()
+        {
+            Console.WriteLine("Ingrese el numero de errores ingrese el 0 si quiere predeterminado");
+           string  entrada= Console.ReadLine();
+            uint salida;
+            while (!uint.TryParse(entrada, out salida) )
+            {
+                Console.WriteLine("Entrada inválida : ingrese un numero entero");
+                entrada = Console.ReadLine();
+            }
+            Console.Clear();
+            return (int)salida;
+        }
 
         private class Ahorcado
         {   
@@ -118,7 +130,6 @@ namespace ahorcados
                 return true;
 
             }
-
             public void mostrarpalabrasecreta()
             {
                 Console.WriteLine(palabrasecreta);

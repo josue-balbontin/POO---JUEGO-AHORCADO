@@ -9,6 +9,7 @@ namespace ahorcados
 {
     class Palabras
     {
+
         private List<string> palabras = new List<string>
         {
             "programacion",
