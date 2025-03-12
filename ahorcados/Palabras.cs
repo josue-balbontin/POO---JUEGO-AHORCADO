@@ -46,7 +46,7 @@ namespace ahorcados
 
         }
         public void mostrarpalabras()
-        {
+        {   
             foreach (string a  in palabras)
             {
                 Console.Write(a+" ");

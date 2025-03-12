@@ -80,11 +80,16 @@ namespace ahorcados
 
             public Ahorcado(int intentos=0)
             {
+                Random random = new Random();
                 Palabras palabras=new Palabras();
                 palabrasecreta = palabras.palabrarandom();
-                foreach(char a in palabrasecreta)
+                foreach (char a in palabrasecreta)
                 {
-                    palabraofuscada.Add('_');
+                    if (random.Next(0, 3)==2)
+                    {
+                        palabraofuscada.Add(a);
+                    }
+                    else palabraofuscada.Add('_');
                 }
                 if (intentos==0 ) this.intentos = palabrasecreta.Length;
                 else this.intentos=intentos;
