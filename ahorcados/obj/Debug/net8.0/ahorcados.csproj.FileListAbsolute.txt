@@ -1,0 +1,14 @@
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\ahorcados\ahorcados\bin\Debug\net8.0\ahorcados.exe
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\ahorcados\ahorcados\bin\Debug\net8.0\ahorcados.deps.json
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\ahorcados\ahorcados\bin\Debug\net8.0\ahorcados.runtimeconfig.json
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\ahorcados\ahorcados\bin\Debug\net8.0\ahorcados.dll
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\ahorcados\ahorcados\bin\Debug\net8.0\ahorcados.pdb
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\ahorcados\ahorcados\obj\Debug\net8.0\ahorcados.GeneratedMSBuildEditorConfig.editorconfig
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\ahorcados\ahorcados\obj\Debug\net8.0\ahorcados.AssemblyInfoInputs.cache
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\ahorcados\ahorcados\obj\Debug\net8.0\ahorcados.AssemblyInfo.cs
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\ahorcados\ahorcados\obj\Debug\net8.0\ahorcados.csproj.CoreCompileInputs.cache
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\ahorcados\ahorcados\obj\Debug\net8.0\ahorcados.dll
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\ahorcados\ahorcados\obj\Debug\net8.0\refint\ahorcados.dll
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\ahorcados\ahorcados\obj\Debug\net8.0\ahorcados.pdb
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\ahorcados\ahorcados\obj\Debug\net8.0\ahorcados.genruntimeconfig.cache
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\ahorcados\ahorcados\obj\Debug\net8.0\ref\ahorcados.dll

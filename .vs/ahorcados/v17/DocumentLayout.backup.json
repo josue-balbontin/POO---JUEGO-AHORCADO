@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\josue\\AAprogramacion\\PROGRAMACION II\\VISUAL STUDIO\\ahorcados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D18CCAE-FFC9-4263-824D-A0E66430E5CD}|ahorcados\\ahorcados.csproj|d:\\josue\\aaprogramacion\\programacion ii\\visual studio\\ahorcados\\ahorcados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D18CCAE-FFC9-4263-824D-A0E66430E5CD}|ahorcados\\ahorcados.csproj|solutionrelative:ahorcados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D18CCAE-FFC9-4263-824D-A0E66430E5CD}|ahorcados\\ahorcados.csproj|d:\\josue\\aaprogramacion\\programacion ii\\visual studio\\ahorcados\\ahorcados\\palabras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D18CCAE-FFC9-4263-824D-A0E66430E5CD}|ahorcados\\ahorcados.csproj|solutionrelative:ahorcados\\palabras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D18CCAE-FFC9-4263-824D-A0E66430E5CD}|ahorcados\\ahorcados.csproj|d:\\josue\\aaprogramacion\\programacion ii\\visual studio\\ahorcados\\ahorcados\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D18CCAE-FFC9-4263-824D-A0E66430E5CD}|ahorcados\\ahorcados.csproj|solutionrelative:ahorcados\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Palabras.cs",
+              "DocumentMoniker": "D:\\josue\\AAprogramacion\\PROGRAMACION II\\VISUAL STUDIO\\ahorcados\\ahorcados\\Palabras.cs",
+              "RelativeDocumentMoniker": "ahorcados\\Palabras.cs",
+              "ToolTip": "D:\\josue\\AAprogramacion\\PROGRAMACION II\\VISUAL STUDIO\\ahorcados\\ahorcados\\Palabras.cs",
+              "RelativeToolTip": "ahorcados\\Palabras.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T04:45:40.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Juego.cs",
+              "DocumentMoniker": "D:\\josue\\AAprogramacion\\PROGRAMACION II\\VISUAL STUDIO\\ahorcados\\ahorcados\\Juego.cs",
+              "RelativeDocumentMoniker": "ahorcados\\Juego.cs",
+              "ToolTip": "D:\\josue\\AAprogramacion\\PROGRAMACION II\\VISUAL STUDIO\\ahorcados\\ahorcados\\Juego.cs",
+              "RelativeToolTip": "ahorcados\\Juego.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T02:51:30.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\josue\\AAprogramacion\\PROGRAMACION II\\VISUAL STUDIO\\ahorcados\\ahorcados\\Program.cs",
+              "RelativeDocumentMoniker": "ahorcados\\Program.cs",
+              "ToolTip": "D:\\josue\\AAprogramacion\\PROGRAMACION II\\VISUAL STUDIO\\ahorcados\\ahorcados\\Program.cs",
+              "RelativeToolTip": "ahorcados\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T02:47:36.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
