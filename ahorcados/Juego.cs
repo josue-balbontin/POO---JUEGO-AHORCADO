@@ -14,7 +14,9 @@ namespace ahorcados
        private  Ahorcado juego ;
 
         public void empezar()
-        {
+        {   string  continuar="SI";
+            while (continuar == "SI") {
+                Console.Clear();
             juego = new Ahorcado(obtenereentrada());
             Console.WriteLine("BIENVENIDO AL JUEGO AHORCADOS");
             while (juego.obtenerintentos() > 0 && juego.Ganar()==false)
@@ -53,7 +55,11 @@ namespace ahorcados
                 Console.WriteLine("No logro adivinar la palabra:");
                 juego.mostrarpalabrasecreta();
             }
-
+                Console.WriteLine();
+                Console.WriteLine();
+                Console.WriteLine("Escriba SI, si quiere volver a jugar, si quiere salir escriba cualquier cosa");
+                continuar = Console.ReadLine();
+            }
 
 
         }
